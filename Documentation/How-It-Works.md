@@ -1,5 +1,7 @@
 # How VirtualAP works
 
+[English](How-It-Works.md) | [简体中文](How-It-Works.zh-CN.md) | [繁體中文](How-It-Works.zh-TW.md) | [Русский](How-It-Works.ru.md) | [Français](How-It-Works.fr.md) | [Deutsch](How-It-Works.de.md) | [日本語](How-It-Works.ja.md) | [한국어](How-It-Works.ko.md)
+
 VirtualAP creates a virtual AP interface, `ap0`, on the phone's Wi-Fi chip, runs `hostapd`
 on it, and then works in one of two modes. Everything below is done by `virtualap`, a
 static C binary running as root, built from `src/`; the app only calls its commands

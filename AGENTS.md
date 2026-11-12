@@ -1,5 +1,7 @@
 # AGENTS.md
 
+[English](AGENTS.md) | [简体中文](AGENTS.zh-CN.md) | [繁體中文](AGENTS.zh-TW.md) | [Русский](AGENTS.ru.md) | [Français](AGENTS.fr.md) | [Deutsch](AGENTS.de.md) | [日本語](AGENTS.ja.md) | [한국어](AGENTS.ko.md)
+
 Instructions for AI coding agents working in this repository. Humans should read
 [CONTRIBUTING.md](./CONTRIBUTING.md), which carries the inventory of what already exists
 here. How the thing works is in

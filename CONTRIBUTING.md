@@ -1,5 +1,7 @@
 # Contributing to VirtualAP
 
+[English](CONTRIBUTING.md) | [简体中文](CONTRIBUTING.zh-CN.md) | [繁體中文](CONTRIBUTING.zh-TW.md) | [Русский](CONTRIBUTING.ru.md) | [Français](CONTRIBUTING.fr.md) | [Deutsch](CONTRIBUTING.de.md) | [日本語](CONTRIBUTING.ja.md) | [한국어](CONTRIBUTING.ko.md)
+
 A feature that does not exist is better than a broken one. VirtualAP runs as root on
 rooted phones, on Wi-Fi chips whose drivers disagree about basic things, so a patch that
 works on your phone and breaks on someone else's is a regression, not a contribution. And

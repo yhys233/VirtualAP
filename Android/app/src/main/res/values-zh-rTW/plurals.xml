@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notification_clients">
+        <item quantity="other">%1$d 台裝置已連線</item>
+    </plurals>
+    <plurals name="mac_digits_left">
+        <item quantity="other">還差 %1$d 位</item>
+    </plurals>
+    <plurals name="blocked_count">
+        <item quantity="other">%1$d 台裝置</item>
+    </plurals>
+</resources>

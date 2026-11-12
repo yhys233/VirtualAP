@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notification_clients">
+        <item quantity="one">%1$d Gerät verbunden</item>
+        <item quantity="other">%1$d Geräte verbunden</item>
+    </plurals>
+    <plurals name="mac_digits_left">
+        <item quantity="one">Noch %1$d</item>
+        <item quantity="other">Noch %1$d</item>
+    </plurals>
+    <plurals name="blocked_count">
+        <item quantity="one">%1$d Gerät</item>
+        <item quantity="other">%1$d Geräte</item>
+    </plurals>
+</resources>

@@ -1,5 +1,7 @@
 # DESIGN.md
 
+[English](DESIGN.md) | [简体中文](DESIGN.zh-CN.md) | [繁體中文](DESIGN.zh-TW.md) | [Русский](DESIGN.ru.md) | [Français](DESIGN.fr.md) | [Deutsch](DESIGN.de.md) | [日本語](DESIGN.ja.md) | [한국어](DESIGN.ko.md)
+
 The visual language of the VirtualAP Android app, which is the Droidspaces design language
 carried over with the components that implement it. The backend is a shell script with no
 UI, so none of this applies to `backend/`.

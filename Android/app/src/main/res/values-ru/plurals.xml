@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notification_clients">
+        <item quantity="one">%1$d устройство подключено</item>
+        <item quantity="few">%1$d устройства подключено</item>
+        <item quantity="many">%1$d устройств подключено</item>
+        <item quantity="other">%1$d устройства подключено</item>
+    </plurals>
+    <plurals name="mac_digits_left">
+        <item quantity="one">Ещё %1$d</item>
+        <item quantity="few">Ещё %1$d</item>
+        <item quantity="many">Ещё %1$d</item>
+        <item quantity="other">Ещё %1$d</item>
+    </plurals>
+    <plurals name="blocked_count">
+        <item quantity="one">%1$d устройство</item>
+        <item quantity="few">%1$d устройства</item>
+        <item quantity="many">%1$d устройств</item>
+        <item quantity="other">%1$d устройства</item>
+    </plurals>
+</resources>

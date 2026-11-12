@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="notification_clients">
+        <item quantity="one">%1$d appareil connecté</item>
+        <item quantity="many">%1$d appareils connectés</item>
+        <item quantity="other">%1$d appareils connectés</item>
+    </plurals>
+    <plurals name="mac_digits_left">
+        <item quantity="one">Encore %1$d</item>
+        <item quantity="many">Encore %1$d</item>
+        <item quantity="other">Encore %1$d</item>
+    </plurals>
+    <plurals name="blocked_count">
+        <item quantity="one">%1$d appareil</item>
+        <item quantity="many">%1$d appareils</item>
+        <item quantity="other">%1$d appareils</item>
+    </plurals>
+</resources>

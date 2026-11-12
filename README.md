@@ -1,5 +1,7 @@
 # VirtualAP
 
+[English](README.md) | [简体中文](README.zh-CN.md) | [繁體中文](README.zh-TW.md) | [Русский](README.ru.md) | [Français](README.fr.md) | [Deutsch](README.de.md) | [日本語](README.ja.md) | [한국어](README.ko.md)
+
 Turn a rooted Android phone into a real Wi-Fi router.
 
 VirtualAP runs a proper access point on your phone's Wi-Fi chip. You pick the network
